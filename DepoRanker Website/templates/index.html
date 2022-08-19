@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DepoRanker</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+<body>
+
+
+<!-- Header -->
+<header class="w3-container w3-theme w3-padding" id="myHeader">
+  <div class="w3-center">
+  <h4> </h4>
+  <h1 class="w3-xxxlarge w3-animate-bottom">DepoRanker</h1>
+  </div>
+</header>
+
+
+<header class="w3-container w3-blue-grey">
+  <h2>About</h2>
+</header>
+
+<div class="w3-padding w3-white w3-display-container">
+  <p>DepoRanker is a machine learning system which ranks proteins in a phage proteome based on their ability to act as a depolymerase. </p>
+  <p>Details on the methods used can be found <a href="https://openreview.net/forum?id=WjqRD8uRkXt">here.</a></p>
+  <p> This website allow you to input your own proteome files in FASTA or FAA format to return a CSV with the ranked proteins. </p>
+</div>
+
+<footer class="w3-container w3-blue-grey">
+  <h5></h5>
+  <p class="w3-opacity"></p>
+</footer>
+
+<hr>
+<h2 class="w3-center">Rank your Phage</h2>
+<div class="w3-center">
+  <br>
+  <label for="myfile">Select a file:</label><form method="POST" action="/success" enctype="multipart/form-data" accept=".fasta,.faa">
+	<p><input type="file" name="file"></p>
+	<p><input type="submit" class="w3-button w3-theme" value="Rank Proteome"></p>
+	</form>
+  <br><br>
+</div>
+<br>
+
+<!-- Footer -->
+<footer class="w3-container w3-theme-dark w3-padding-16">
+  <h3></h3>
+<p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
