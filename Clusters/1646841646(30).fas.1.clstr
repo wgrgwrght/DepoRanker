@@ -1,0 +1,64 @@
+>Cluster 0
+0	1245aa, >depo_0507-KN2-1_YP008532047_KN2... *
+>Cluster 1
+0	1233aa, >depo_KP36_YP009226010_K63... *
+>Cluster 2
+0	1193aa, >depo_K64-1_YP009153198_KN5... *
+>Cluster 3
+0	1017aa, >depo_P510_QOV05454_K64... *
+1	996aa, >depo_K64-1_YP009153202_K64... at 0.0/769aa/36.24%
+>Cluster 4
+0	907aa, >depo_KlebsPhageB1_QTP95996_K2... *
+1	907aa, >depo_RAD2_QUU29414_K2... at 0.0/907aa/98.23%
+>Cluster 5
+0	888aa, >depo_K64-1_YP009153201_K1... *
+1	651aa, >depo_GBH001_SAMEA5780048-00056_K1... at 7.35e-93/613aa/31.79%
+2	651aa, >depo_KpV71_AMQ66478_K1... at 2.52e-91/612aa/31.18%
+3	651aa, >depo_NTUH-K2044-K1-1_YP009098385_K1... at 5.68e-93/612aa/31.49%
+>Cluster 6
+0	869aa, >depo_KP32_YP003347555_K3... *
+>Cluster 7
+0	858aa, >depo_KpV41_ALO80736_K1... *
+>Cluster 8
+0	850aa, >depo_KN4-1_BBF66888_KN4... *
+>Cluster 9
+0	843aa, >depo_KpV767_AOZ65519_K57... *
+1	793aa, >depo_IME205_ALT58497_K47... at 7.73e-160/355aa/30.26%
+2	793aa, >depo_SH-KP152226_QDF14644_K47... at 2.35e-162/355aa/30.76%
+3	721aa, >depo_KpV79_ATI16495_K57... at 0.0/590aa/45.35%
+>Cluster 10
+0	820aa, >depo_IME321_AXE28435_KN1... *
+1	820aa, >depo_KN1-1_BBF66844_KN1... at 0.0/820aa/95.85%
+>Cluster 11
+0	809aa, >depo_GBH019_SAMEA5780053-00279_K51... *
+>Cluster 12
+0	792aa, >depo_K5-2_APZ82804_K5... *
+1	792aa, >depo_KN3-1_BBF66867_KN3... at 0.0/375aa/34.46%
+2	767aa, >depo_K64-1_YP009153203_K30K69... at 1.10e-172/551aa/35.46%
+3	749aa, >depo_K5-4_APZ82847_K5... at 1.20e-138/405aa/31.37%
+>Cluster 13
+0	779aa, >depo_K64-1_YP009153200_K35... *
+>Cluster 14
+0	736aa, >depo_K64-1_YP009153195_KN4... *
+>Cluster 15
+0	728aa, >depo_38-vB-KqM-Bilbo_cds00057_K22... *
+1	584aa, >depo_K64-1_YP009153199_K25... at 3.34e-87/494aa/31.33%
+>Cluster 16
+0	702aa, >depo_K64-1_YP009153197_K11... *
+>Cluster 17
+0	685aa, >depo_K5-2_APZ82805_K30K69... *
+1	684aa, >depo_K5-4_APZ82848_K8... at 0.0/682aa/98.68%
+>Cluster 18
+0	678aa, >depo_KN3-1_BBF66868_K56... *
+>Cluster 19
+0	663aa, >depo_38-vB-KqM-Bilbo_cds00061_K54... *
+>Cluster 20
+0	651aa, >depo_K64-1_YP009153196_K21... *
+1	576aa, >depo_KP32_YP003347556_K21... at 3.20e-109/543aa/37.32%
+>Cluster 21
+0	641aa, >depo_IME205_ALT58498_K47... *
+>Cluster 22
+0	577aa, >depo_GBH038_SAMEA5866265-00054_K2... *
+1	577aa, >depo_KpV74_APZ82768_K2... at 0.0/577aa/98.61%
+>Cluster 23
+0	228aa, >depo_KLPN1_YP09195374_K1... *
